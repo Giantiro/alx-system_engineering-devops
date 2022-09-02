@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime -m schoool.mgc *
+file -C -m school.mgc
